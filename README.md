@@ -16,7 +16,7 @@ You can find my newest release here: https://github.com/kasperfm/FireFight-Win11
 1. Download my package from this GitHub page.
 2. Unpack the contents into your FireFight directory.
 3. Run the .bat file "PATCHFF.bat" from the game directory.
-4. Now just start the game with "FIREFIGHT_PATCHED.EXE".
+4. Now just start the game with "FIREFIGHT_PATCHED.EXE".
 
 
 (I developed the patch against v1.0.0.1 of the game from my retail CD. So the game without any official patches installed.)
